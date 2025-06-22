@@ -41,7 +41,7 @@ To run the application locally:
 
 ## Deployed Link
 
-[StayFinder (Vercel)]()
+[StayFinder (Vercel)](https://stay-finder-gilt.vercel.app/)
 
 ## Test Credentials
 
